@@ -1,5 +1,14 @@
 # Architecture du projet
 
+## Couches
+
+| Couche           | Responsabilité                                                                                                                                                                                                                                                                                      |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Api`            | Couche de présentation. **Entrée**: `Request`. **Sortie**: `Response`.                                                                                                                                                                                                                              |
+| `Application`    | Porte d'entrée vers la logique applicative. Un peu comme un contrôleur de Larman,<br/>mais qui peut contenir de la logique d'ordonnancement des actions<br/>(ex.: chercher une donnée, la modifier puis la sauvegarder).<br/>**Entrée et sortie**: `Dto` ou `ValueObject` ou type de base.          |
+| ` Entities`      | Les données à sauvegarder. Contient également la "vraie" logique, ce qui manipule et utilise<br/>directement les données (comme les *interfaces* de repository ou de service externes, les factories, etc.).<br/>**Entrée et sortie**: `Entity`, `ValueObject` ou type de base (**PAS** de `Dto`!). |
+| `Infrastructure` | Les implémentations qui dépendent d'une librairie, protocole ou technologie spécifique,<br/>comme une implémentation de repository qui utilise une BD SQL.                                                                                                                                          |
+
 ## Flux d'appels
 
 - [Diag. séquence feature 1](https://teams.microsoft.com/l/file/880E6DF8-32F3-4D32-B763-19614BA5A943?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FAnnonces%2Farchitecture-tp1-feature1.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:afdb3ddfedbf4723948e73d7f38194d1@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
