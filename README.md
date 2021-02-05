@@ -26,8 +26,15 @@
 
 ## Semaine 3
 
-Coming soon
+🎥 **Séances**
 
+1. [GIT](https://web.microsoftstream.com/video/fd0c9ee0-52ce-4bd6-ba38-c5c576793e4f)
+2. [Recherche d'infos](https://web.microsoftstream.com/video/f3a11c80-71c6-4d4d-9c90-f63a9d30f599)
+3. [Questions](https://web.microsoftstream.com/video/3e890681-d293-401a-a978-7fdc941c6c55)
+
+📁 **Fichiers**
+
+- [Présentation](https://teams.microsoft.com/l/file/C304C003-9F9E-4674-9591-BB76E9D76611?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab3.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
 
 ## Additionnel
 
