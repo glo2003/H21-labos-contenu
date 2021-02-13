@@ -36,6 +36,17 @@
 
 - [Présentation](https://teams.microsoft.com/l/file/C304C003-9F9E-4674-9591-BB76E9D76611?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab3.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
 
+## Semaine 4
+
+🎥 **Séances**
+
+1. [Tests](https://web.microsoftstream.com/video/a97dd054-8d3a-44cf-b243-67ce22d5dd88)
+2. [Test (2) + Exceptions](https://web.microsoftstream.com/video/27b5cc9b-63e2-4878-ac52-4b27e825a5db)
+
+📁 **Fichiers**
+
+1. [Présentation](https://teams.microsoft.com/l/file/B5D2FBD5-B721-4A96-B4A9-B82CD86D3904?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab4.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
+
 ## Additionnel
 
 - [Architecture du projet](./architecture-projet.md)
