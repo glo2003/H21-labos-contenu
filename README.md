@@ -45,7 +45,18 @@
 
 📁 **Fichiers**
 
-1. [Présentation](https://teams.microsoft.com/l/file/B5D2FBD5-B721-4A96-B4A9-B82CD86D3904?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab4.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
+- [Présentation](https://teams.microsoft.com/l/file/B5D2FBD5-B721-4A96-B4A9-B82CD86D3904?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab4.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
+
+## Semaine 5
+
+🎥 **Séances**
+
+1. [Tests E2E + autres](https://web.microsoftstream.com/video/9c55a1ed-5227-4e4d-ade4-d37a6eb8ba10)
+2. [CI + Github Actions](https://web.microsoftstream.com/video/596e529b-6de1-4a19-b254-6d6ce661c868)
+
+📁 **Fichiers**
+
+- [Présentation](https://teams.microsoft.com/l/file/9BE8E1B2-2CE8-48F0-886D-CA32031DE04D?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab5.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
 
 ## Additionnel
 
