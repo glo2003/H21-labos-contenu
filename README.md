@@ -58,6 +58,16 @@
 
 - [Présentation](https://teams.microsoft.com/l/file/9BE8E1B2-2CE8-48F0-886D-CA32031DE04D?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab5.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
 
+## Semaine 6
+
+🎥 **Séances**
+
+1. [Refactoring + Value Objects](https://web.microsoftstream.com/video/1b90c2f1-95fb-4751-b9f0-48b2ca99dba1)
+
+📁 **Fichiers**
+
+- [Présentation](https://teams.microsoft.com/l/file/B996BB72-29D8-421C-B89C-6B7E6E8D5327?tenantId=56778bd5-6a3f-4bd3-a265-93163e4d5bfe&fileType=pdf&objectUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021%2FDocuments%20partages%2FR%C3%A9unions%2FLab6.pdf&baseUrl=https%3A%2F%2Fulavaldti.sharepoint.com%2Fsites%2FGLO-2003-Hiver2021&serviceName=teams&threadId=19:c47d2477f7f04c598e741589b60e889d@thread.tacv2&groupId=6c373767-5a7b-4409-a44c-9673ff22a815)
+
 ## Additionnel
 
 - [Architecture du projet](./architecture-projet.md)
