@@ -1,5 +1,7 @@
 # H21 - Contenu des laboratoires
 
+## :warning: **Démarche URGENTE pour déplacez vos repos [ICI](./moving-repos.md)** :warning:
+
 ## Semaine 1
 
 🎥 **Séances**
