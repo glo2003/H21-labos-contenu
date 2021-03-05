@@ -1,6 +1,10 @@
 # Démarche pour déplacer le repo
 
-Voici la démarche à suivre afin de pouvoir continuer à bénificier du CI avec Github Actions:
+Voici la démarche à suivre afin de pouvoir continuer à bénificier du CI avec Github Actions.
+
+## 1. Création du répo
+
+:warning: **PUSHEZ VOTRE CODE AVANT!!!** :waring:
 
 1. Désignez **1 seule personne** qui fera l'ensemble des démarches suivantes
 2. Créez une organisation portant le nom **`H21-glo2003-équipeX`** avec `X` étant le numéro de votre équipe (`01`, `05`, `15`, etc.) (en haut à droite, le `+` puis `New organisation`)
@@ -14,3 +18,16 @@ Voici la démarche à suivre afin de pouvoir continuer à bénificier du CI avec
    5. Cliquez sur `Begin import`
    6. Mettez votre username/password
    7. ![image](https://user-images.githubusercontent.com/32545895/110041841-c866dd80-7d12-11eb-8817-e15c01721599.png)
+
+## 2. Mise à jour du repo
+
+Malheureusement, vous devrez :
+
+1. Recréer vos issues en cours
+2. Recréer vos PRs en cours
+3. Recréer votre Github Project
+4. Recréer votre Milestone pour le TP3
+5. Recréer vos labels
+6. Remettre vos settings (s'ils avaient changés)
+
+Vos branches poussées seront transférées automatiquement.
